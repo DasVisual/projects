@@ -1,5 +1,5 @@
 #! python 3
-
+''
 # A script to paste text
 
 # import pyperclip
