@@ -1,0 +1,1 @@
+Find last names, emails, and phone numbers in a spreadsheet and paste them into a new spreadsheet

@@ -1,0 +1,9 @@
+Python Data Analysis tutorial:
+https://community.modeanalytics.com/python/?utm_medium=recommended&utm_source=blog&utm_content=thinking_python
+ 
+Bokeh Visualization:
+https://bokeh.pydata.org/en/latest/docs/user_guide.html 
+
+https://www.reddit.com/r/Python/comments/83ww7c/be_a_self_taught_python_programmer_in_2018_mooc/
+
+https://www.reddit.com/r/Python/comments/83p1t1/basic_machine_learning_algorithms_in_plain_python/
