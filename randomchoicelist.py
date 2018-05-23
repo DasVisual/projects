@@ -1,5 +1,7 @@
 #! python3
 
+'''Generates random responses'''
+
 import random
 from time import strftime
 
