@@ -1,8 +1,9 @@
 import pandas as pd 
 import matplotlib.pyplot as plt
 
-data = pd.ExcelFile("C:/Users/Mohammed/Downloads/python/projects/obesityPandas/Obes-phys-acti-diet-eng-2014-tab.xls")
+data = pd.ExcelFile("C:/Users/noona/Downloads/python/projects/obesityPandas/Obes-phys-acti-diet-eng-2014-tab.xls")
 print(data.sheet_names)
+
 
 # Define the columns to be read
 columns1 = ['year','total', 'males', 'females']
